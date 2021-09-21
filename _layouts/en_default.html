@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>{{ page.title }}</title>
+            <!-- link to main stylesheet -->
+            <link rel="stylesheet" type="text/css" href="/css/main.css">
+            <meta name="description" content="Icekler: Art portfolio. Visual art, music and poetry. Ink, Watercolor, Crafting, 3D Modeling, Acrylic and Oil paintings.">
+            <meta name="og:title" property="og:title" content="Icekler: Art Portfolio">
+            <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            {% if site.google_analytics and jekyll.environment == 'production' %}
+            {% include analytics.html %}
+            {% endif %}
+        </head>
+        <body>
+            <nav>
+				<ul>
+					<a href="/en/about"><li>About me</li></a>
+					<a href="/en/visual-art"><li>Visual Art</li></a>
+                    <a href="/en/shop"><li>Shop | Prints | Commissions</li></a>
+					<a href="/en/music-sound"><li>Music</li></a>
+					<a href="/en/lit-poetry"><li>Poetry</li></a>
+				</ul>
+            </nav>
+            <div id="language_nav">
+                <div id="language_nav_container">
+                    <ul>
+                        {% if page.layout != 'index' %}
+                            {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                            {% if posts.size == 0 %}
+                                {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                            {% endif %}
+                            {% if posts.size > 1 %}
+                                {% for post in posts %}
+                                    <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ site.data.languages[post.lang].label }}"><li>{{ site.data.languages[post.lang].icon }}{{ site.data.languages[post.lang].label }}{{ site.data.languages[post.lang].icon }}</li></a>
+                                {% endfor %}
+                            {% else %}
+                                <a href="/en/{{ page.lang-ref }}"><li>🇺🇸English🇺🇸</li></a>
+                                <a href="/es/{{ page.lang-ref }}"><li>🇲🇽Español🇲🇽</li></a>
+                                <a href="/jp/{{ page.lang-ref }}"><li>🇯🇵日本語🇯🇵</li></a>
+                            {% endif %}
+                        {% else %}
+                            <a href="/en/{{ page.lang-ref }}"><li>🇺🇸English🇺🇸</li></a>
+                            <a href="/es/{{ page.lang-ref }}"><li>🇲🇽Español🇲🇽</li></a>
+                            <a href="/jp/{{ page.lang-ref }}"><li>🇯🇵日本語🇯🇵</li></a>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+            <div class="container">
+            
+            {{ content }}
+            
+            </div><!-- /.container -->
+            <footer>
+                <div id="footer_band">
+                </div>
+                <div class="footer-div-container">
+                    <div class="footer-div">
+						<span class="footer-title">Art Related</span>
+						<ul>
+							<li><a href="https://www.instagram.com/icekler/">Instagram: @icekler</a></li>
+                            <li><a href="https://twitter.com/Icekler">Twitter: @Icekler</a></li>
+							<li><a href="https://icekler.bandcamp.com">Bandcamp: Icekler</a></li>
+						</ul>
+                    </div>
+                    <div class="footer-div">
+                        <span class="footer-title">Other links</span>
+                        <ul>
+                            <li><a href="https://linktr.ee/icekler">Linktr.ee/icekler</a></li>
+                            <li><a href="https://www.paypal.me/icekler">PayPal.me/Icekler</a></li>
+                            <li><a href="https://ko-fi.com/icekler">Ko-Fi: Icekler (donations)</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-div">
+						<span class="footer-title">Navigation</span>
+						<ul>
+							<li><a href="/en/about">About me</a></li>
+							<li><a href="/en/visual-art">Visual Art</a></li>
+                            <li><a href="/en/shop">Shop | Prints | Commissions</a></li>
+							<li><a href="/en/music-sound">Music</a></li>
+							<li><a href="/en/lit-poetry">Poetry</a></li>
+						</ul>
+                    </div>
+                    <div class="footer-div">
+                        <span class="footer-title">Languages</span>
+                        <ul>
+                            {% if page.layout != 'index' %}
+                                {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                                {% if posts.size == 0 %}
+                                    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                                {% endif %}
+                                {% if posts.size > 1 %}
+                                    {% for post in posts %}
+                                        <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ site.data.languages[post.lang].label }}"><li>{{ site.data.languages[post.lang].icon }}{{ site.data.languages[post.lang].label }}{{ site.data.languages[post.lang].icon }}</li></a>
+                                    {% endfor %}
+                                {% else %}
+                                    <a href="/en/{{ page.lang-ref }}"><li>🇺🇸English🇺🇸</li></a>
+                                    <a href="/es/{{ page.lang-ref }}"><li>🇲🇽Español🇲🇽</li></a>
+                                    <a href="/jp/{{ page.lang-ref }}"><li>🇯🇵日本語🇯🇵</li></a>
+                                {% endif %}
+                            {% else %}
+                                <a href="/en/{{ page.lang-ref }}"><li>🇺🇸English🇺🇸</li></a>
+                                <a href="/es/{{ page.lang-ref }}"><li>🇲🇽Español🇲🇽</li></a>
+                                <a href="/jp/{{ page.lang-ref }}"><li>🇯🇵日本語🇯🇵</li></a>
+                            {% endif %}
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+        </body>
+    </html>

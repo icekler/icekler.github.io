@@ -1,0 +1,9 @@
+name: Icekler
+# markdown: kramdown
+
+# Google Analytics
+google_analytics: G-YB0CD83K8J
+
+url: "https://icekler.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
