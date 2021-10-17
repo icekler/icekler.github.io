@@ -100,7 +100,6 @@ You can also contact me on Instagram, which is where I'm the most active.
 - [linktr.ee/icekler: Follow all my links or donate to support me!](https://linktr.ee/icekler)
 - [Buy me a coffee / donate for art supplies on Ko-Fi!](https://ko-fi.com/icekler)
 - [Buy my music on Bandcamp: Icekler](https://icekler.bandcamp.com)
-- [DeviantArt: Icekler](https://www.deviantart.com/icekler)  (I'm trying to leave it because of the bad interface)
 
 <ul class="visual_links">
     <a href="/en/visual-art/ink/"><li id="visual_link_ink">Ink</li></a>

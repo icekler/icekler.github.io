@@ -100,7 +100,6 @@ lang-ref: about
 - [linktr.ee/icekler:  私のリンクをフォローしたり、画材の支援の寄付はこちらに！](https://linktr.ee/icekler)
 - [コーヒー奢ってあげたい / 画材の支援をしたいと思う方はKo-Fiでしてね!](https://ko-fi.com/icekler)
 - [バンドキャンプで私の音楽Bandcamp: Iceklerで買ってね〜](https://icekler.bandcamp.com)
-- [DeviantArt: Icekler (インターフェースが悪いのでやめようと思ってます)](https://www.deviantart.com/icekler)
 
 <ul class="visual_links">
     <a href="/jp/visual-art/ink/"><li id="visual_link_ink">墨絵・筆ペン画</li></a>
