@@ -33,7 +33,7 @@ Aparte de las artes visuales, también hago muchas artes marciales, y he hecho A
 
 También tengo un amplio rango de gustos y hobbies musicales. Me gusta componer musica en software digital, y tengo unas cuantas composiciones viejas para un álbum de rock que nunca terminé, y unas cuantas canciones para un video juego que nunca fue publicado. Pero más que todo me gusta tocar música. Tengo al rededor de 5 ocarinas, 3 quenas, 2 zampoñas, un Irish tin-whistle, entre otras flautas tradicionales. También me gusta silbar y soplar en botellas. He participado en ensambles musicales con mi ocarina y quena antes, pero no tengo buenos videos de esos eventos.
 
-## Piezas destacadas 
+## Piezas destacadas
 
 <div class="art-gallery-container">
     <div class="art-gallery">
@@ -95,7 +95,6 @@ Para pedidos de [impresiones de mis pinturas](mailto:icekler.art.requests@gmail.
 También me pueden contactar en Instagram, que es donde soy más activa.
 
 - [Instagram: @icekler | Sígueme en Instagram y ve mi nuevo arte!](https://www.instagram.com/icekler/)
-- [Twitter: @Icekler | Sígueme en Twitter para nueva información!](https://twitter.com/Icekler)
 - [PayPal.me/Icekler | Para pagos de impresiones y comisiones](https://www.paypal.me/icekler)
 - [linktr.ee/icekler | Sigue todos mis links o dona para apoyarme!](https://linktr.ee/icekler)
 - [Cómprame un café / Dona para mis materiales en Ko-Fi!](https://ko-fi.com/icekler)

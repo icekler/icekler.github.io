@@ -95,7 +95,6 @@ lang-ref: about
 他にはよく使ってるInstagramでメッセージをくれれば早く返事できると思います。
 
 - [Instagram @icekler:  アートの投稿をインスタにフォローしてね〜](https://www.instagram.com/icekler/)
-- [Twitter @Icekler:  新情報はツイッターをフォローしてね〜 ](https://twitter.com/Icekler)
 - [PayPal.me/Icekler:  印刷や作品の依頼の支払いはこちらに](https://www.paypal.me/icekler)
 - [linktr.ee/icekler:  私のリンクをフォローしたり、画材の支援の寄付はこちらに！](https://linktr.ee/icekler)
 - [コーヒー奢ってあげたい / 画材の支援をしたいと思う方はKo-Fiでしてね!](https://ko-fi.com/icekler)

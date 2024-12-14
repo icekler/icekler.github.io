@@ -23,15 +23,15 @@ lang-ref: about
 
 ## Who am I?
 
-I'm Claire, a mexican queer transgender woman, artist, and martial artist living in Japan, and I intend to normalize LGBTQ+, mental health, neurodiversity, intimate relationship style diversity and sex education. As an artist, I do visual art, music, martial arts, poetry, and so on. Lately I prefer to use ink as my main medium, and I've begun to do a little bit more of hand-crafts and watercolor. I go on Instagram and other social media accounts by [@icekler](https://www.instagram.com/icekler/)
+I'm Claire, a Mexican queer transgender woman, artist, and martial artist living in Japan, and I intend to normalize LGBTQ+, mental health, neurodiversity, intimate relationship style diversity and sex education. As an artist, I do visual art, music, martial arts, poetry, and so on. Lately I prefer to use ink as my main medium, and I've begun to do a little bit more of hand-crafts and watercolor. I go on Instagram and other social media accounts by [@icekler](https://www.instagram.com/icekler/)
 
 ## What do I do?
 
 Aside from my day job, in my free time, I am also an artist, I mainly use ink on paper and watercolor, but I have used digital mediums in the past, such as digital painting, vector illustration designing, 3D modeling, 3D animation, 2D animation, etc. I also enjoy handcrafting, wood carving and other manual arts.
 
-Aside from the visual arts, I also do many martial arts, I'e done Aikido my whole life, while recently I also do Karate and Yoga in my free time. However I've also practiced Kendo, Shorinji-Kenpo, Judo and I would like to join archery and Kyudo in the future.
+Aside from the visual arts, I also do many martial arts, I've done Aikido my whole life, while recently I also do Karate and Yoga in my free time. However I've also practiced Kendo, Shorinji-Kenpo, Judo and I would like to join archery and Kyudo in the future.
 
-I also have a wide range of musical tastes and hobbies. I like composing music in digital software. I have a few old compositions for a rock album that I never finished, and I did videogame music for a game that never quite released. However, most of the time I enjoy playing music, I have around 5 ocarinas, 3 quenas, 2 zampoñas, an Irish tin-whistle, and a few miscellaneous traditional flutes. I also quite enjoy just whistling and blowing on bottles. I've participated in musical ensembles with my ocarina and quena before, but few were recorded in good quality.
+I also have a wide range of musical tastes and hobbies. I like composing music in digital software. I have a few old compositions for a rock album that I never finished, and I did video game music for a game that never quite released. However, most of the time I enjoy playing music, I have around 5 ocarinas, 3 quenas, 2 zampoñas, an Irish tin-whistle, and a few miscellaneous traditional flutes. I also quite enjoy just whistling and blowing on bottles. I've participated in musical ensembles with my ocarina and quena before, but few were recorded in good quality.
     
 ### Featured
 
@@ -95,7 +95,6 @@ Send art print requests (currently open!) and inquiries for commissions (current
 You can also contact me on Instagram, which is where I'm the most active.
 
 - [Instagram @icekler: Follow me on Instagram for new art!](https://www.instagram.com/icekler/)
-- [Twitter @Icekler: Follow me on Twitter for new updates!](https://twitter.com/Icekler)
 - [PayPal.me/Icekler: For print payments or commissions](https://www.paypal.me/icekler)
 - [linktr.ee/icekler: Follow all my links or donate to support me!](https://linktr.ee/icekler)
 - [Buy me a coffee / donate for art supplies on Ko-Fi!](https://ko-fi.com/icekler)
