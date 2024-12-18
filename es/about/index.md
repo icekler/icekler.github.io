@@ -23,7 +23,7 @@ lang-ref: about
 
 ## ¿Quién Soy?
 
-Soy Claire, una mujer mexicana, queer y transgénero, artista y artista marcial viviendo en Japón, y es mi intención normalizar lo LGBTQ+, la salud mental, la neurodiversidad, la diversidad de estilos de relaciónes íntimas y educación sexual. En mi tiempo libre, me dedico a disTíntas formas de arte. Arte visual, música, artes marciales, poesía y demás. Últimamente prefiero usar tinta y pincel como mi medio principal, y he empezado a hacer más manualidades y acuarelas. En Instagram y otras redes sociales me puedes encontrar como [@icekler](https://www.instagram.com/icekler/)
+Soy Claire, una mujer mexicana, queer y transgénero, artista y artista marcial viviendo en Japón, y es mi intención normalizar lo LGBTQ+, la salud mental, la neurodiversidad, la diversidad de estilos de relaciónes íntimas y educación sexual. En mi tiempo libre, me dedico a distíntas formas de arte. Arte visual, música, artes marciales, poesía y demás. Últimamente prefiero usar tinta y pincel como mi medio principal, y he empezado a hacer más manualidades y acuarelas. En Instagram y otras redes sociales me puedes encontrar como [@icekler](https://www.instagram.com/icekler/)
 
 ## ¿Qué es lo que hago?
 

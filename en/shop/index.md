@@ -83,8 +83,8 @@ The labor cost for post card size, small items, small scale prints is as follows
 
 | Piece type | Labor cost in JPY | USD (approximated) |
 |---|---|---|
-| Calligraphy | **5,000 JPY** | (32.50 USD) |
-| Ink, watercolor, acrylics paintings | **9,000 JPY** | (58.49 USD) |
+| Calligraphy | **2,500 JPY** | (16.25 USD) |
+| Ink, watercolor, acrylics paintings | **5,000 JPY** | (32.50 USD) |
 | Large scale paintings | **12,000 JPY** | (77.99 USD) |
 
 ***Payment is requested via PayPal after the order is consolidated***

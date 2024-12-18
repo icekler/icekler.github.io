@@ -82,9 +82,9 @@ El costo de mano de obra para impresiones de tamaño postal, artículos pequeño
 
 | Tipo de pieza | Costo de mano de obra en JPY | USD (aproximado) |
 |---|---|---|
-| Caligrafía | **5000 JPY** | (32.50 USD) |
-| Pinturas en tinta, acuarela y acrílico | **9000 JPY** | (58.49 USD) |
-| Pinturas a gran escala | **12 000 JPY** | (77.99 USD) |
+| Caligrafía | **2,500 JPY** | (16.25 USD) |
+| Pinturas en tinta, acuarela y acrílico | **5,000 JPY** | (32.50 USD) |
+| Pinturas a gran escala | **12,000 JPY** | (77.99 USD) |
 
 ***El pago será solicitado por medio de PayPal cuando la orden haya sido consolidada***
 
