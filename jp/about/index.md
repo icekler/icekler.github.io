@@ -7,7 +7,7 @@ lang-ref: about
 <div id="icekler_logo_container_small">
 <img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
 <h1 id="icekler_small">ICEKLER</h1>
-<h2 id="icekler_small" style="width:100%;text-align:center;display:block;margin-top:-1em;padding-top:1em;">アイスクレーア</h2>
+<h2 id="icekler_small" style="width:100%;text-align:center;display:block;margin-top:-1em;padding-top:1em;">イサクレア</h2>
 </div>
 
 <ul class="visual_links">
