@@ -8,43 +8,147 @@ lang-ref: shop
 <div id="icekler_logo_container_small">
 <img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
 <h1 id="icekler_small">ICEKLER</h1>
+<h2 id="icekler_small">Claire Puppylove's Art</h2>
+<h1>Shop / Prints / Commissions</h1>
 </div>
 
-# Shop / Prints / Commissions
-
-Welcome to my shop! I've only started, so for the moment I'm only selling prints and commissions, but as soon as I start getting the hang of it I want to include a variety of items! If you have any specific requests that aren't just wall art (for example teacups, shirts, stickers, etc), please let me know and we'll figure it out together. Click down the table of contents for details.
+Welcome to my shop!
 
 There isn't an automated online storefront so all requests must be made by email or message to me, payment forms will be sent upon an agreement has been made.
 
 [**Send art print requests (currently open!)**](mailto:icekler.art.requests@gmail.com) and [**inquiries for commissions (currently open!)**](mailto:icekler.art.requests@gmail.com) to:[icekler.art.requests@gmail.com](mailto:icekler.art.requests@gmail.com)
 
-You can also contact me on [Instagram](https://www.instagram.com/icekler/), which is where I'm the most active.
+You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11) which is where I'm the most active.
 
-- [Instagram @icekler: Follow me on Instagram for new art!](https://www.instagram.com/icekler/)
+- [@icekler.com on Bluesky](https://bsky.app/profile/icekler.com)
+- [@clairepuppylove on Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11)
+- [@claire.puppylove on TikTok](https://www.tiktok.com/@claire.puppylove)
+- [PayPal.me/Icekler: For print payments or commissions](https://www.paypal.me/icekler)
+- [linktr.ee/icekler: Follow all my links or donate to support me!](https://linktr.ee/icekler)
+- [Buy me a coffee / donate for art supplies on Ko-Fi!](https://ko-fi.com/icekler)
+- [@icekler on Instagram: (up but currently not actively posting)](https://www.instagram.com/icekler/)
 
 Browse paintings available for prints:
 
 <ul class="visual_links">
-    <a href="/en/visual-art/ink/"><li id="visual_link_ink">Ink</li></a>
-    <a href="/en/visual-art/watercolor/"><li id="visual_link_watercolor">Watercolor</li></a>
-    <a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
-    <a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
-    <a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>  
+		<a href="/en/visual-art/ink_watercolor"><li id="visual_link_ink_watercolor">Ink and Watercolor</li></a>
+		<a href="/en/visual-art/calligraphy"><li id="visual_link_calligraphy">Calligraphy</li></a>
+		<a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
+		<a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
+		<a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
 </ul>
 
+Currently being sold at [**Osaka Thru the Eyes of the World**](https://www.instagram.com/p/DGt0TU_TEx0/) art sale at [iiie craft beer near Shinsaibashi station](https://maps.app.goo.gl/AU5d5ZuoaVBVJJ1SA).
+
+<div class="art-gallery-container">
+	<div class="art-gallery">
+		<div class="art-div">
+			<img class="art_img_landscape" src="/assets/merch/postcards/2025-03_postcards_otteotw.jpg" title="" alt="">
+			<span class="art_desc">
+				<span class="art_title">Osaka Thru the Eyes of the World vol.3 postcards set</span>
+				<span class="art_medium">1 for 400 JPY | 3 for 1000 JPY | 9 for 2700 JPY (full set) (prices for event only)</span>
+				<span class="art_date">2025-03-30</span>
+			</span>
+		</div>
+		<div class="art-div">
+			<img class="art_img_landscape" src="/assets/merch/stickers/2025-03_rainbow-holo-stickers_otteotw.jpg" title="" alt="">
+			<span class="art_desc">
+				<span class="art_title">Osaka Thru the Eyes of the World vol.3 sticker set</span>
+				<span class="art_medium">1 for 600 JPY | 3 for 1600 JPY | 6 for 3000 JPY (full set) (prices for event only)</span>
+				<span class="art_date">2025-03-30</span>
+			</span>
+		</div>
+		<div class="art-mult-container">
+		<div class="art-div-multiple">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_01.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_02.jpg" title="Wise Fox" alt="Wise Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_03.jpg" title="Nine Tailed Fox" alt="Nine Tailed Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_04.jpg" title="Fox asleep in the forest" alt="Fox asleep in the forest (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_05.jpg" title="dapper snake" alt="dapper snake (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_06.jpg" title="night doggo" alt="night doggo (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_07.jpg" title="Art Witch" alt="Art Witch (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_08.jpg" title="Art Fox with a giant brush" alt="Art Fox with a giant brush (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_09.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_10.jpg" title="Wise Fox" alt="Wise Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_11.jpg" title="Nine Tailed Fox" alt="Nine Tailed Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_12.jpg" title="Fox asleep in the forest" alt="Fox asleep in the forest (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_13.jpg" title="dapper snake" alt="dapper snake (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_14.jpg" title="Night Doggo" alt="Night Doggo (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_15.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
+		</div>
+		<span class="art_desc">
+			<span class="art_title">Osaka Thru the Eyes of the World hand painted ink postcards</span>
+			<span class="art_medium">2900 JPY (prices for event only)</span>
+			<span class="art_date">2025-03-30</span>
+		</span>
+		</div>
+		<div class="art-mult-container">
+		<div class="art-div-multiple">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_16.jpg" title="Jumping Fox (watercolor)" alt="Jumping Fox (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_17.jpg" title="Jumping Fox (watercolor)" alt="Jumping Fox (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_18.jpg" title="Night Doggo in the Sky (watercolor)" alt="Night Doggo in the Sky (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_19.jpg" title="Night Doggo in the Sky (watercolor)" alt="Night Doggo in the Sky (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_20.jpg" title="Cat Playing with the Universe (watercolor)" alt="Cat Playing with the Universe (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_21.jpg" title="Cat Playing with the Universe (watercolor)" alt="Cat Playing with the Universe (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_22.jpg" title="Fox Witch (watercolor)" alt="Fox Witch (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_23.jpg" title="Fox Witch (watercolor)" alt="Fox Witch (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_24.jpg" title="Sun Fox and Moon Wolf (watercolor)" alt="Sun Fox and Moon Wolf (watercolor)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_25.jpg" title="Sun Fox and Moon Wolf (watercolor)" alt="Sun Fox and Moon Wolf (watercolor)">
+		</div>
+		<span class="art_desc">
+			<span class="art_title">Osaka Thru the Eyes of the World hand painted watercolor postcards</span>
+			<span class="art_medium">4300 JPY (prices for event only)</span>
+			<span class="art_date">2025-03-30</span>
+		</span>
+		</div>
+		<div class="art-mult-container">
+		<div class="art-div-multiple">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_26.jpg" title="福 as a cat (sassy)" alt="福 as a cat (sassy)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_27.jpg" title="猫 as a cat (chonky)" alt="猫 as a cat (chonky)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_28.jpg" title="家 as a cat (happy)" alt="家 as a cat (happy)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_29.jpg" title="福 as a cat (big smile)" alt="福 as a cat (big smile)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_30.jpg" title="猫 as a cat (chill)" alt="猫 as a cat (chill)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_31.jpg" title="家 as a cat (fluffy tail)" alt="家 as a cat (fluffy tail)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_32.jpg" title="福 as a cat (smart)" alt="福 as a cat (smart)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_33.jpg" title="猫 as a cat (persian)" alt="猫 as a cat (persian)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_34.jpg" title="家 as a cat (smooth)" alt="家 as a cat (smooth)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_35.jpg" title="福 as a cat (scar face)" alt="福 as a cat (scar face)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_36.jpg" title="猫 as a cat (resting grumpy face)" alt="猫 as a cat (resting grumpy face)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_37.jpg" title="家 as a cat (mischievous)" alt="家 as a cat (mischievous)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_38.jpg" title="福 as a cat (cunning)" alt="福 as a cat (cunning)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_39.jpg" title="猫 as a cat (smol)" alt="猫 as a cat (smol)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_40.jpg" title="家 as a cat (abstract)" alt="家 as a cat (abstract)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_41.jpg" title="福 as a cat (calm)" alt="福 as a cat (calm)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_42.jpg" title="猫 as a cat (hehehehe)" alt="猫 as a cat (hehehehe)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_43.jpg" title="家 as a cat (snore)" alt="家 as a cat (snore)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_44.jpg" title="福 as a cat (blep)" alt="福 as a cat (blep)">
+		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_45.jpg" title="猫 as a cat (hungry)" alt="猫 as a cat (hungry)">
+		</div>
+		<span class="art_desc">
+			<span class="art_title">Osaka Thru the Eyes of the World hand painted calligraphy postcards</span>
+			<span class="art_medium">2150 JPY (prices for event only)</span>
+			<span class="art_date">2025-03-30</span>
+		</span>
+		</div>
+	</div>
+
+
+</div>
+	
 #### Table of contents
 <!-- MarkdownTOC autolink="true" autoanchor="true" -->
 
 - [Prints](#prints)
-  - [Pricing scheme](#pricing-scheme)
-  - [Printful.com details](#printfulcom-details)
-    - [*Example Printful.com order:*](#example-printfulcom-order)
-  - [Graphic.jp details](#graphicjp-details)
-    - [*Example Graphic.jp order:*](#example-graphicjp-order)
+	- [Pricing scheme \(wall art\)](#pricing-scheme-wall-art)
+	- [Pricing scheme \(merch\)](#pricing-scheme-merch)
+	- [Graphic.jp details](#graphicjp-details)
+		- [*Example Graphic.jp order:*](#example-graphicjp-order)
+	- [Printpac.co.jp details](#printpaccojp-details)
+		- [*Example Printpac.co.jp order:*](#example-printpaccojp-order)
 - [Commissions for personal use](#commissions-for-personal-use)
-  - [Terms and Conditions](#terms-and-conditions)
-  - [License](#license)
-  - [Commission Contact](#commission-contact)
+	- [Terms and Conditions](#terms-and-conditions)
+	- [License](#license)
+	- [Commission Contact](#commission-contact)
 - [Payments and Donations](#payments-and-donations)
 
 <!-- /MarkdownTOC -->
@@ -53,86 +157,85 @@ Browse paintings available for prints:
 <a id="prints"></a>
 ## Prints
 
-For printing I'm currently using two services: [Printful](https://www.printful.com) and [Graphic.jp](https://www.graphic.jp/). They both have pros and cons, so I'll list them in [Printful.com details](#printfulcom-details) and in [Graphic.jp details](#graphicjp-details).
+For printing I'm currently using two services: [Graphic.jp](https://www.graphic.jp/) and [Printpac.co.jp](https://www.printpac.co.jp/). They both have pros and cons, so I'll list them in [Printpac.co.jp details](#printfulcom-details) and in [Graphic.jp details](#graphicjp-details).
 
-<a id="pricing-scheme"></a>
-### Pricing scheme
+<a id="pricing-scheme-wall-art"></a>
+### Pricing scheme (wall art)
 
 In a nutshell, my pricing is calculated like this:
 
 ```
-Total Price = Order cost + Shipping cost + Labor cost
+Total Price = Order cost + Labor cost + Shipping cost
 ```
 
-The order cost depends on what quality, size, and extra content is included in the order. I do not control this, but rather it's the cost of using [Printful.com](https://www.printful.com) and [Graphic.jp](https://www.graphic.jp/) to do the print.  
-The shipping cost is calculated by Printful.com or Graphic.jp to Japan so I can bundle a letter or sign the piece, adding to that the cost of shipping with Japan Post, since I'll be doing the shipping myself.  
+The order cost depends on what quality, size, and materials I need to fulfill the order. I do not control this, but rather it's the cost of sending the painting to print, or to frame it if it is printed in a material that needs framing. It ranges from 2500 to 3500 JPY for regular sized prints. Larger prints might incur further costs.  
+
+I can bundle a letter or sign the piece. Once bundled, I add the cost of shipping with Japan Post, since I'll be doing the shipping myself.  
 
 The labor cost for wall art display prints is as follows:
 
-| Piece type | Labor cost in JPY | USD (approximated) |
-|---|---|---|
-| Calligraphy | **16,000 JPY** | (103.99 USD) |
-| Ink, watercolor, acrylics paintings | **50,000 JPY** | (324.96 USD) |
-| Large scale paintings | **100,000 JPY** | (649.92 USD) |
+<!-- 
+| Self made | ink painting mini |  original | 2000 JPY | (13.40 USD) |
+| Self made | ink painting big |  original | 13750 JPY | (92.13 USD) |
+| Self made | watercolor small |  original | 15000 JPY | (100.50 USD) |
+| Self made | watercolor big |  original | 30000 JPY | (201.00 USD) |
+| Self made | calligraphy small |  original | 6400 JPY | (42.88 USD) |
+| Self made | calligraphy big |  original | 12800 JPY | (85.76 USD) |
+ -->
 
-**For pieces that are not commissions, I do not sell originals.**
+| Piece type | Painting Category | Sale type | Labor cost in JPY | Labor cost (USD approximated) |
+|---|---|---|---|---|
+| Self made | Ink painting mini |  original | 2,000 JPY | (13.40 USD) |
+| Self made | Watercolor mini |  original | 3,000 JPY | (20.10 USD) |
+| Self made | Calligraphy mini |  original | 1,280 JPY | (8.58 USD) |
+| Self made | Ink painting mini |  print | 280 JPY | (1.88 USD) |
+| Self made | Ink painting small |  print | 4,000 JPY | (26.80 USD) |
+| Self made | Ink painting big |  print | 5,500 JPY | (36.85 USD) |
+| Self made | Watercolor mini |  print | 280 | (1.88 USD) |
+| Self made | Watercolor small |  print | 6,000 JPY | (40.20 USD) |
+| Self made | Watercolor big |  print | 12,000 JPY | (80.40 USD) |
+| Self made | Calligraphy mini |  print | 280 | (1.88 USD) |
+| Self made | Calligraphy small |  print | 2,560 JPY | (17.15 USD) |
+| Self made | Calligraphy big |  print | 5,120 JPY | (34.30 USD) |
+| Commission | Ink painting mini |  original | 2,500 JPY | (16.75 USD) |
+| Commission | Ink painting small |  original | 12,500 JPY | (83.75 USD) |
+| Commission | Ink painting big |  original | 17,188 JPY | (115.16 USD) |
+| Commission | Watercolor mini |  original | 3,750 JPY | (25.13 USD) |
+| Commission | Watercolor small |  original | 18,750 JPY | (125.63 USD) |
+| Commission | Watercolor big |  original | 37,500 JPY | (251.25 USD) |
+| Commission | Calligraphy mini |  original | 1,600 JPY | (10.72 USD) |
+| Commission | Calligraphy small |  original | 8,000 JPY | (53.60 USD) |
+| Commission | Calligraphy big |  original | 16,000 JPY | (107.20 USD) |
+| Commission | Ink painting mini |  print | 500 JPY | (3.35 USD) |
+| Commission | Ink painting small |  print | 5,000 JPY | (33.50 USD) |
+| Commission | Ink painting big |  print | 6,875 JPY | (46.06 USD) |
+| Commission | Watercolor mini |  print | 500 JPY | (3.35 USD) |
+| Commission | Watercolor small |  print | 7,500 JPY | (50.25 USD) |
+| Commission | Watercolor big |  print | 15,000 JPY | (100.50 USD) |
+| Commission | Calligraphy mini |  print | 500 JPY | (3.35 USD) |
+| Commission | Calligraphy small |  print | 3,200 JPY | (21.44 USD) |
+| Commission | Calligraphy big |  print | 6,400 JPY | (42.88 USD) |
 
+**For pieces that are not commissions, I do not sell originals except for postcard (mini) sized.**
+***Payment is requested via PayPal after the order is consolidated***
 
+<a id="pricing-scheme-merch"></a>
+### Pricing scheme (merch)
+
+For merch, since I will be printing in batches, has no order cost, but only labor cost and shipping cost associated with it.
+
+```
+Total Price = Labor cost + Shipping cost
+```
 
 The labor cost for post card size, small items, small scale prints is as follows:
 
-| Piece type | Labor cost in JPY | USD (approximated) |
-|---|---|---|
-| Calligraphy | **2,500 JPY** | (16.25 USD) |
-| Ink, watercolor, acrylics paintings | **5,000 JPY** | (32.50 USD) |
-| Large scale paintings | **12,000 JPY** | (77.99 USD) |
+| Piece type | Painting Category | Sale type | Labor cost in JPY | Labor cost (USD approximated) |
+|---|---|---|---|---|
+| Self made | Postcard |  print | 280 JPY | (1.88 USD) |
+| Self made | Rainbow holo sticker 50mm2 |  print sticker 50mm2 | 420 JPY | (2.81 USD) |
 
 ***Payment is requested via PayPal after the order is consolidated***
-
-
-<a id="printfulcom-details"></a>
-### Printful.com details
-
-*pros*:
-
-- Can choose to print Canvas, framed posters, plain posters, or even cups, shirts, and other assorted items
-
-*cons*:
-
-- I can't print high quality glass prints or special materials
-- I can't do a varnish finish on canvas prints
-
-*notes*:
-
-- All the sizes are in Imperial units (inches).
-- Shipping cost is calculated by Printful.com to Japan and then Japan Post [(international shipping)](https://www.post.japanpost.jp/int/charge/list/index_en.html) [(national shipping)](https://www.post.japanpost.jp/index_en.html)
- to the client 
-- I have to prepare each file for printing (specially for canvas prints)
-
-<a id="example-printfulcom-order"></a>
-#### *Example Printful.com order:*
-
-<img id="about_img" src="/assets/mockup_thumbnails/enhanced-matte-paper-framed-poster-(in)-black-10x10-person-612ce766eaa0d.jpg" alt="Matte paper framed poster mockup" title="Matte paper framed poster mockup" style="width: 6em;">
-
-- Order: "Broken (Ink and Digital Filters)" Framed poster, 10 x 10 inches (254 x 254 mm)
-	- Order company: [Printful.com](https://www.printful.com)
-	- Order cost: 20.76 USD (2,282 JPY)
-	- Shipping cost of small framed poster within Japan: 10.87 USD (1,195 JPY)
-	- Shipping cost to the USA (if shipping by plane, assuming less than 1kg): 3,350 JPY (30.48 USD)
-	- Thank you letter: Free ❤️
-	- Labor cost: 50,000 JPY (324.96 USD)
-		- Total price: 56,827 JPY (369.33 USD)
-
-But let's say I ship to other countries:
-
-- Shipping cost of 1kg or less to Japan (double send for thank you letter): varies by prefecture, aprox. 1,000 JPY
-- Shipping cost of 1kg or less to Europe, North America, Central America: 30.48 USD (3,350 JPY)
-- Shipping cost of 1kg or less to South America: 18.56 (2,040 JPY)
-
-[The shipping rates for Printful.com can be found here.](https://www.printful.com/shipping#shipping-rates)  
-You can check the official [Japan Post International shipping prices here](https://www.post.japanpost.jp/int/charge/list/index_en.html)  
-You can check the official [Japan Post National shipping prices here](https://www.post.japanpost.jp/int/charge/list/index_en.html)  
-
 
 <a id="graphicjp-details"></a>
 ### Graphic.jp details
@@ -142,21 +245,16 @@ You can check the official [Japan Post National shipping prices here](https://ww
 - I can print high quality gliceé, glass printing, canvas printing, poster printing.
 - I can do a varnish finish on canvas prints
 
-*cons*:
-
-- I can't print on cups, shirts, or any assorted items, the shop is mostly for flat prints.
-
 *notes*:
 
 - All the sizes are in Metric units (millimeters)
-- I have to prepare each file for printing (specially for canvas prints)
 - Shipping costs are calculated by Graphic.jp and Japan Post [(international shipping)](https://www.post.japanpost.jp/int/charge/list/index_en.html) [(national shipping)](https://www.post.japanpost.jp/index_en.html)
 
 
 <a id="example-graphicjp-order"></a>
 #### *Example Graphic.jp order:*
 
-<img id="about_img" src="/assets/mockup_thumbnails/img_feature_gallery_2_big_edited.jpg" alt="Canvas print mockup" title="Canvas print mockup" style="width: 7em;">
+<img id="about_img" src="/assets/mockup_thumbnails/graphicjp_canvas_250mm.jpg" alt="Canvas print example" title="Canvas print example" style="width: 7em;">
 
 - Order: "Cat Playing with the Universe (Ink and Digital Filters)" Canvas print, 250 x 250 mm (9.8 x 9.8 in)
 	- Order company: [Graphic.jp](https://www.graphic.jp/lineup/canvas)
@@ -164,18 +262,60 @@ You can check the official [Japan Post National shipping prices here](https://ww
 	- Shipping cost of canvas within Japan: *free above 18.20 USD / 2,000 JPY*
 	- Shipping cost to the USA (if shipping by plane, assuming less than 1kg): 3,350 JPY (30.48 USD)
 	- Thank you letter: Free ❤️
-	- Labor cost: 50,000 JPY (324.96 USD)
-		- Total price: 55,980 JPY (363.83 USD)
+	- Labor cost: 4,000 JPY (26.80 USD)
+		- Total price: 9,980 JPY (67.91 USD)
 
 But let's say I ship to other countries:
 
-- Shipping cost of 1kg or less to Japan (double send for thank you letter): varies by prefecture, aprox. 1,000 JPY
-- Shipping cost of 1kg or less to Europe, North America, Central America: 30.48 USD (3,350 JPY)
-- Shipping cost of 1kg or less to South America: 18.56 (2,040 JPY)
+- Shipping cost of 1 kg or less to Japan (double send for thank you letter): varies by prefecture, approx. 1,000 JPY
+- Shipping cost of 1 kg or less to Europe, North America, Central America: 3,350 JPY (30.48 USD)
+- Shipping cost of 1 kg or less to South America: 2,040 JPY (18.56 USD)
 
 You can check the official [Japan Post International shipping prices here](https://www.post.japanpost.jp/int/charge/list/index_en.html)  
 You can check the official [Japan Post National shipping prices here](https://www.post.japanpost.jp/int/charge/list/index_en.html)  
 
+<a id="printpaccojp-details"></a>
+### Printpac.co.jp details
+
+*pros*:
+
+- I can print postcards or posters easily
+- I can print basic merch (not holographic) like stickers
+
+*cons*:
+
+- Framing cost is not included, so I need to buy a frame if printing a poster.
+- Merch is less varied in materials (no holographic prints)
+
+*notes*:
+
+- All the sizes are in Metric units (millimeters)
+- Shipping costs are calculated by [Printpac.co.jp](https://www.printpac.co.jp) and Japan Post [(international shipping)](https://www.post.japanpost.jp/int/charge/list/index_en.html) [(national shipping)](https://www.post.japanpost.jp/index_en.html)
+
+
+<a id="example-printpaccojp-order"></a>
+#### *Example Printpac.co.jp order:*
+
+<!-- <img id="about_img" src="/assets/mockup_thumbnails/img_feature_gallery_2_big_edited.jpg" alt="Canvas print mockup" title="Canvas print mockup" style="width: 7em;"> -->
+
+- Order: "Cat Playing with the Universe (Ink and Digital Filters)" Poster print, 250 x 250 mm cut from A3 size (9.8 x 9.8 in)
+	- Order company: [Printpac.co.jp](https://www.printpac.co.jp/contents/lineup/ph_poster/price.php?category=242&size=2&paper=436&noki=5)
+	- Print cost: 940 JPY (6.40 USD)
+	- 250mm x 250 mm [frame](https://item.rakuten.co.jp/phototaiyo/106042/): 2,090 JPY (14.22 USD)
+	- Shipping cost of canvas within Japan: *free above 18.20 USD / 2,000 JPY*
+	- Shipping cost to the USA (if shipping by plane, assuming less than 1kg): 3,350 JPY (30.48 USD)
+	- Thank you letter: Free ❤️
+	- Labor cost: 4,000 JPY (26.80 USD)
+		- Total price: 10,380 JPY (70.63 USD)
+
+But let's say I ship to other countries:
+
+- Shipping cost of 1 kg or less to Japan (double send for thank you letter): varies by prefecture, approx. 1,000 JPY
+- Shipping cost of 1 kg or less to Europe, North America, Central America: 3,350 JPY (30.48 USD)
+- Shipping cost of 1 kg or less to South America: 2,040 JPY (18.56 USD)
+
+You can check the official [Japan Post International shipping prices here](https://www.post.japanpost.jp/int/charge/list/index_en.html)  
+You can check the official [Japan Post National shipping prices here](https://www.post.japanpost.jp/int/charge/list/index_en.html)  
 
 
 <a id="commissions-for-personal-use"></a>
@@ -192,15 +332,26 @@ Commission Price = Order cost (digital delivery is free) + Shipping Cost (digita
 ```
 
 
-| Piece type | Labor cost in JPY | USD (approximated) |
-|---|---|---|
-| Calligraphy, short message | **4,000 JPY** | (26.02 USD) |
-| Calligraphy, long message | **8,000 JPY** | (52.04 USD) |
-| Doodle / sketch (small scale) | **10,000 JPY** | (64.99 USD) |
-| Ink, watercolor, acrylics paintings (normal scale) | **50,000 JPY** | (324.96 USD) |
-| Large scale paintings | **150,000 JPY** | (974.88 USD) |
-| Original (normal scale) (add-on fee) | **150,000 JPY** | (974.88 USD) |
-| Large scale original (add-on fee) | **300,000 JPY** | (1949.76 USD) |
+| Piece type | Painting Category | Sale type | Labor cost in JPY | Labor cost (USD approximated) |
+|---|---|---|---|---|
+| Commission | Ink painting mini |  original | 2,500 JPY | (16.75 USD) |
+| Commission | Ink painting small |  original | 12,500 JPY | (83.75 USD) |
+| Commission | Ink painting big |  original | 17,188 JPY | (115.16 USD) |
+| Commission | Watercolor mini |  original | 3,750 JPY | (25.13 USD) |
+| Commission | Watercolor small |  original | 18,750 JPY | (125.63 USD) |
+| Commission | Watercolor big |  original | 37,500 JPY | (251.25 USD) |
+| Commission | Calligraphy mini |  original | 1,600 JPY | (10.72 USD) |
+| Commission | Calligraphy small |  original | 8,000 JPY | (53.60 USD) |
+| Commission | Calligraphy big |  original | 16,000 JPY | (107.20 USD) |
+| Commission | Ink painting mini |  print / digital | 500 JPY | (3.35 USD) |
+| Commission | Ink painting small |  print / digital | 5,000 JPY | (33.50 USD) |
+| Commission | Ink painting big |  print / digital | 6,875 JPY | (46.06 USD) |
+| Commission | Watercolor mini |  print / digital | 1500 JPY | (3.35 USD) |
+| Commission | Watercolor small |  print / digital | 7,500 JPY | (50.25 USD) |
+| Commission | Watercolor big |  print / digital | 15,000 JPY | (100.50 USD) |
+| Commission | Calligraphy mini |  print / digital | 500 JPY | (3.35 USD) |
+| Commission | Calligraphy small |  print / digital | 3,200 JPY | (21.44 USD) |
+| Commission | Calligraphy big |  print / digital | 6,400 JPY | (42.88 USD) |
 
 
 <a id="terms-and-conditions"></a>
@@ -290,132 +441,35 @@ Commissions under these terms and conditions and license are to be requested for
 
 Send [**inquiries for commissions**]((mailto:icekler.art.requests@gmail.com) to:[icekler.art.requests@gmail.com](mailto:icekler.art.requests@gmail.com)
 
-You can also contact me on [Instagram](https://www.instagram.com/icekler/), which is where I'm the most active.
+You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11) which is where I'm the most active.
 
-- [Instagram @icekler: Follow me on Instagram for new art!](https://www.instagram.com/icekler/)
+- [@icekler.com on Bluesky](https://bsky.app/profile/icekler.com)
+- [@clairepuppylove on Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11)
+- [@claire.puppylove on TikTok]
+- [@icekler on Ko-Fi](https://ko-fi.com/icekler)
+- [@icekler on Instagram: (up but currently not actively posting)](https://www.instagram.com/icekler/)
 
 Browse on inspiration for your commissions:
 
 <ul class="visual_links">
-    <a href="/en/visual-art/ink/"><li id="visual_link_ink">Ink</li></a>
-    <a href="/en/visual-art/watercolor/"><li id="visual_link_watercolor">Watercolor</li></a>
-    <a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
-    <a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
-    <a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
-    <a href="/en/visual-art/crafting/"><li id="visual_link_crafting">Crafting</li></a>
+		<a href="/en/visual-art/ink_watercolor"><li id="visual_link_ink_watercolor">Ink and Watercolor</li></a>
+		<a href="/en/visual-art/calligraphy"><li id="visual_link_calligraphy">Calligraphy</li></a>
+		<a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
+		<a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
+		<a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
 </ul>
+
+For hand crafting, prices can be negotiated further, since it depends on the crafting item.
 
 <a id="payments-and-donations"></a>
 ## Payments and Donations
 
 ***Payment is requested via PayPal after the order is consolidated***
 
-I will make a payment request on PayPal personally via e-mail once the order is finished. If you use a credit card and don't have a PayPal account, you can still use the form below for payment. 
+I will make a payment request on PayPal personally via e-mail once the order is finished. If you use a credit card and don't have a PayPal account, you can instead pay through Ko-Fi
 
 ***DO NOT PAY BEFORE THE ORDER IS CONFIRMED***
 
 I also accept donations, if you'd like to buy me a coffee, lunch, or just help me with my dream of being a self-supported artist! 🥰 
 
-You can use the button below or [donate for art supplies on Ko-Fi!](https://ko-fi.com/icekler)
-
-<br><br>
-
-<div id="smart-button-container">
-    <div style="text-align: center; margin:-1em;"><label for="description">Description </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
-      <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
-    <div style="text-align: center; margin:-1em;"><label for="amount">Amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
-      <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a payment amount</p>
-    <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
-      <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
-    <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
-</div>
-
-<script src="https://www.paypal.com/sdk/js?client-id=ATKE8Jxp8LTilA2cCVTG4b-qvG2OphKb0VsmGVuDawRnAyS04ogNIrrcp5eONEVhGhnLNssiXSReypfA&enable-funding=venmo&currency=USD&intent=capture&merchant-id=LQUXECP28LLX8&commit=true&components=buttons" data-sdk-integration-source="button-factory"></script>
-<script>
-	function initPayPalButton() {
-		var description = document.querySelector('#smart-button-container #description');
-		var amount = document.querySelector('#smart-button-container #amount');
-		var descriptionError = document.querySelector('#smart-button-container #descriptionError');
-		var priceError = document.querySelector('#smart-button-container #priceLabelError');
-		var invoiceid = document.querySelector('#smart-button-container #invoiceid');
-		var invoiceidError = document.querySelector('#smart-button-container #invoiceidError');
-		var invoiceidDiv = document.querySelector('#smart-button-container #invoiceidDiv');
-		var elArr = [description, amount];
-		if (invoiceidDiv.firstChild.innerHTML.length > 1) {
-		  invoiceidDiv.style.display = "block";
-		}
-		var purchase_units = [];
-		purchase_units[0] = {};
-		purchase_units[0].amount = {};
-		function validate(event) {
-		  return event.value.length > 0;
-		}
-		paypal.Buttons({
-		  style: {
-		    color: 'blue',
-		    shape: 'pill',
-		    label: 'paypal',
-		    layout: 'vertical',
-		    
-		  },
-		  onInit: function (data, actions) {
-		    actions.disable();
-		    if(invoiceidDiv.style.display === "block") {
-		      elArr.push(invoiceid);
-		    }
-		    elArr.forEach(function (item) {
-		      item.addEventListener('keyup', function (event) {
-		        var result = elArr.every(validate);
-		        if (result) {
-		          actions.enable();
-		        } else {
-		          actions.disable();
-		        }
-		      });
-		    });
-		  },
-		  onClick: function () {
-		    if (description.value.length < 1) {
-		      descriptionError.style.visibility = "visible";
-		    } else {
-		      descriptionError.style.visibility = "hidden";
-		    }
-		    if (amount.value.length < 1) {
-		      priceError.style.visibility = "visible";
-		    } else {
-		      priceError.style.visibility = "hidden";
-		    }
-		    if (invoiceid.value.length < 1 && invoiceidDiv.style.display === "block") {
-		      invoiceidError.style.visibility = "visible";
-		    } else {
-		      invoiceidError.style.visibility = "hidden";
-		    }
-		    purchase_units[0].description = description.value;
-		    purchase_units[0].amount.value = amount.value;
-		    if(invoiceid.value !== '') {
-		      purchase_units[0].invoice_id = invoiceid.value;
-		    }
-		  },
-		  createOrder: function (data, actions) {
-		    return actions.order.create({
-		      purchase_units: purchase_units,
-		    });
-		  },
-		  onApprove: function (data, actions) {
-		    return actions.order.capture().then(function (orderData) {
-		    // Full available details
-		      console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-		      // Show a success message within this page, e.g.
-		      const element = document.getElementById('paypal-button-container');
-		      element.innerHTML = '';
-		      element.innerHTML = '<h3>Thank you for your payment!</h3>';
-		      // Or go to another URL:  actions.redirect('thank_you.html');
-		    });
-		  },
-		  onError: function (err) {
-		    console.log(err);
-		  }
-		}).render('#paypal-button-container');
-	}
-	initPayPalButton();
-</script>
+You can [donate for art supplies on Ko-Fi!](https://ko-fi.com/icekler)

@@ -26,8 +26,8 @@ También me pueden contactar en Instagram, que es donde soy más activa.
 Busca pinturas disponibles para impresion:
 
 <ul class="visual_links">
-    <a href="/es/visual-art/ink/"><li id="visual_link_ink">Tinta</li></a>
-    <a href="/es/visual-art/watercolor/"><li id="visual_link_watercolor">Acuarelas</li></a>
+    <a href="/es/visual-art/ink/"><li id="visual_link_calligraphy">Tinta</li></a>
+    <a href="/es/visual-art/watercolor/"><li id="visual_link_ink_watercolor">Acuarelas</li></a>
     <a href="/es/visual-art/digital/"><li id="visual_link_digital">Arte Digital</li></a>
     <a href="/es/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Óleo y Acrílicos</li></a>
     <a href="/es/visual-art/design/"><li id="visual_link_design">Diseño</li></a>
@@ -287,8 +287,8 @@ También me pueden contactar en Instagram, que es donde soy más activa.
 Busca inspiración para tus comisiones:
 
 <ul class="visual_links">
-    <a href="/es/visual-art/ink/"><li id="visual_link_ink">Tinta</li></a>
-    <a href="/es/visual-art/watercolor/"><li id="visual_link_watercolor">Acuarelas</li></a>
+    <a href="/es/visual-art/ink/"><li id="visual_link_calligraphy">Tinta</li></a>
+    <a href="/es/visual-art/watercolor/"><li id="visual_link_ink_watercolor">Acuarelas</li></a>
     <a href="/es/visual-art/digital/"><li id="visual_link_digital">Arte Digital</li></a>
     <a href="/es/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Óleo y Acrílicos</li></a>
     <a href="/es/visual-art/design/"><li id="visual_link_design">Diseño</li></a>

@@ -11,8 +11,8 @@ lang-ref: about
 </div>
 
 <ul class="visual_links">
-    <a href="/jp/visual-art/ink/"><li id="visual_link_ink">墨絵・筆ペン画</li></a>
-    <a href="/jp/visual-art/watercolor/"><li id="visual_link_watercolor">水彩画</li></a>
+    <a href="/jp/visual-art/ink/"><li id="visual_link_calligraphy">墨絵・筆ペン画</li></a>
+    <a href="/jp/visual-art/watercolor/"><li id="visual_link_ink_watercolor">水彩画</li></a>
     <a href="/jp/visual-art/crafting/"><li id="visual_link_crafting">クラフト</li></a>
     <a href="/jp/visual-art/animation/"><li id="visual_link_animation">アニメーション</li></a>
     <a href="/jp/visual-art/3Dmodel/"><li id="visual_link_3Dmodel">3D モデル</li></a>
@@ -62,7 +62,7 @@ lang-ref: about
         </span>
         </div>
         <div class="art-div">
-        <img class="art_img_square" src="/assets/visual_art_thumbnails/ink/2017/2017-04-17_Broken.jpg" title="A sad eye with broken structures" alt="A sad eye with broken structures">
+        <img class="art_img_square" src="/assets/visual_art_thumbnails/ink/2017/2017-04-17_broken.jpg" title="A sad eye with broken structures" alt="A sad eye with broken structures">
         <span class="art_desc">
             <span class="art_title">Broken</span>
             <span class="art_medium">紙に墨筆ペン</span>
@@ -101,8 +101,8 @@ lang-ref: about
 - [バンドキャンプで私の音楽Bandcamp: Iceklerで買ってね〜](https://icekler.bandcamp.com)
 
 <ul class="visual_links">
-    <a href="/jp/visual-art/ink/"><li id="visual_link_ink">墨絵・筆ペン画</li></a>
-    <a href="/jp/visual-art/watercolor/"><li id="visual_link_watercolor">水彩画</li></a>
+    <a href="/jp/visual-art/ink/"><li id="visual_link_calligraphy">墨絵・筆ペン画</li></a>
+    <a href="/jp/visual-art/watercolor/"><li id="visual_link_ink_watercolor">水彩画</li></a>
     <a href="/jp/visual-art/crafting/"><li id="visual_link_crafting">クラフト</li></a>
     <a href="/jp/visual-art/animation/"><li id="visual_link_animation">アニメーション</li></a>
     <a href="/jp/visual-art/3Dmodel/"><li id="visual_link_3Dmodel">3D モデル</li></a>

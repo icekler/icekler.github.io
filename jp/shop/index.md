@@ -25,8 +25,8 @@ lang-ref: shop
 アートプリント・印刷の依頼できる品物をご覧ください: 
 
 <ul class="visual_links">
-    <a href="/jp/visual-art/ink/"><li id="visual_link_ink">墨絵・筆ペン画</li></a>
-    <a href="/jp/visual-art/watercolor/"><li id="visual_link_watercolor">水彩画</li></a>
+    <a href="/jp/visual-art/ink/"><li id="visual_link_calligraphy">墨絵・筆ペン画</li></a>
+    <a href="/jp/visual-art/watercolor/"><li id="visual_link_ink_watercolor">水彩画</li></a>
     <a href="/jp/visual-art/digital/"><li id="visual_link_digital">デジタル・アート</li></a>
     <a href="/jp/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">油絵とアクリル絵</li></a>
     <a href="/jp/visual-art/design/"><li id="visual_link_design">デザイン</li></a>
@@ -293,8 +293,8 @@ AI学習での使用は固く禁じられています。
 依頼作品のアイデアが浮かぶためにこちらをご覧ください: 
 
 <ul class="visual_links">
-    <a href="/jp/visual-art/ink/"><li id="visual_link_ink">墨絵・筆ペン画</li></a>
-    <a href="/jp/visual-art/watercolor/"><li id="visual_link_watercolor">水彩画</li></a>
+    <a href="/jp/visual-art/ink/"><li id="visual_link_calligraphy">墨絵・筆ペン画</li></a>
+    <a href="/jp/visual-art/watercolor/"><li id="visual_link_ink_watercolor">水彩画</li></a>
     <a href="/jp/visual-art/digital/"><li id="visual_link_digital">デジタル・アート</li></a>
     <a href="/jp/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">油絵とアクリル絵</li></a>
     <a href="/jp/visual-art/design/"><li id="visual_link_design">デザイン</li></a>

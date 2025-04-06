@@ -11,8 +11,8 @@ lang-ref: about
 </div>
 
 <ul class="visual_links">
-    <a href="/es/visual-art/ink/"><li id="visual_link_ink">Tinta</li></a>
-    <a href="/es/visual-art/watercolor/"><li id="visual_link_watercolor">Acuarelas</li></a>
+    <a href="/es/visual-art/ink/"><li id="visual_link_calligraphy">Tinta</li></a>
+    <a href="/es/visual-art/watercolor/"><li id="visual_link_ink_watercolor">Acuarelas</li></a>
     <a href="/es/visual-art/crafting/"><li id="visual_link_crafting">Manualidades</li></a>
     <a href="/es/visual-art/animation/"><li id="visual_link_animation">Animación</li></a>
     <a href="/es/visual-art/3Dmodel/"><li id="visual_link_3Dmodel">Modelado 3D</li></a>
@@ -62,7 +62,7 @@ También tengo un amplio rango de gustos y hobbies musicales. Me gusta componer 
         </span>
         </div>
         <div class="art-div">
-        <img class="art_img_square" src="/assets/visual_art_thumbnails/ink/2017/2017-04-17_Broken.jpg" title="A sad eye with broken structures" alt="A sad eye with broken structures">
+        <img class="art_img_square" src="/assets/visual_art_thumbnails/ink/2017/2017-04-17_broken.jpg" title="A sad eye with broken structures" alt="A sad eye with broken structures">
         <span class="art_desc">
             <span class="art_title">Broken</span>
             <span class="art_medium">Tínta y Filtros Digitales</span>
@@ -101,8 +101,8 @@ También me pueden contactar en Instagram, que es donde soy más activa.
 - [Compra mi música en Bandcamp: Icekler](https://icekler.bandcamp.com)
 
 <ul class="visual_links">
-    <a href="/es/visual-art/ink/"><li id="visual_link_ink">Tinta</li></a>
-    <a href="/es/visual-art/watercolor/"><li id="visual_link_watercolor">Acuarelas</li></a>
+    <a href="/es/visual-art/ink/"><li id="visual_link_calligraphy">Tinta</li></a>
+    <a href="/es/visual-art/watercolor/"><li id="visual_link_ink_watercolor">Acuarelas</li></a>
     <a href="/es/visual-art/crafting/"><li id="visual_link_crafting">Manualidades</li></a>
     <a href="/es/visual-art/animation/"><li id="visual_link_animation">Animación</li></a>
     <a href="/es/visual-art/3Dmodel/"><li id="visual_link_3Dmodel">Modelado 3D</li></a>
