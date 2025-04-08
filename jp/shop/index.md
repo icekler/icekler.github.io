@@ -6,10 +6,10 @@ lang-ref: shop
 ---
 
 <div id="icekler_logo_container_small">
-	<img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
 	<h1 id="icekler_small">ICEKLER</h1>
-	<h2 id="icekler_small_sub">イサクレア</h2>
+	<img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
 	<h2 id="icekler_small">Claire Puppylove's Art</h2>
+	<h2 id="icekler_small_sub">イサクレア</h2>
 	<h2 id="icekler_small_sub">クレア・パピーラブのアート</h2>
 	<h1>ショップ / 印刷 / 作品の依頼</h1>
 </div>

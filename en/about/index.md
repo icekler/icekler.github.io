@@ -6,8 +6,8 @@ lang-ref: about
 ---
 
 <div id="icekler_logo_container_small">
-	<img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
 	<h1 id="icekler_small">ICEKLER</h1>
+	<img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
 	<h2 id="icekler_small">Claire Puppylove's Art</h2>
 
 </div>
