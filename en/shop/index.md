@@ -6,10 +6,10 @@ lang-ref: shop
 ---
 
 <div id="icekler_logo_container_small">
-<img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
-<h1 id="icekler_small">ICEKLER</h1>
-<h2 id="icekler_small">Claire Puppylove's Art</h2>
-<h1>Shop / Prints / Commissions</h1>
+	<img id="icekler_logo_small" src="/assets/New logo_2.png" title="Icekler" alt="Icekler">
+	<h1 id="icekler_small">ICEKLER</h1>
+	<h2 id="icekler_small">Claire Puppylove's Art</h2>
+	<h1>Shop / Prints / Commissions</h1>
 </div>
 
 Welcome to my shop!
@@ -18,10 +18,10 @@ There isn't an automated online storefront so all requests must be made by email
 
 [**Send art print requests (currently open!)**](mailto:icekler.art.requests@gmail.com) and [**inquiries for commissions (currently open!)**](mailto:icekler.art.requests@gmail.com) to:[icekler.art.requests@gmail.com](mailto:icekler.art.requests@gmail.com)
 
-You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11) which is where I'm the most active.
+You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [小红书(Xiǎohóngshū)](https://xiaohongshu/user/profile/67860b72000000000801ef11) which is where I'm the most active.
 
 - [@icekler.com on Bluesky](https://bsky.app/profile/icekler.com)
-- [@clairepuppylove on Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11)
+- [@clairepuppylove on 小红书(Xiǎohóngshū)](https://xiaohongshu/user/profile/67860b72000000000801ef11)
 - [@claire.puppylove on TikTok](https://www.tiktok.com/@claire.puppylove)
 - [PayPal.me/Icekler: For print payments or commissions](https://www.paypal.me/icekler)
 - [linktr.ee/icekler: Follow all my links or donate to support me!](https://linktr.ee/icekler)
@@ -31,14 +31,14 @@ You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [
 Browse paintings available for prints:
 
 <ul class="visual_links">
-		<a href="/en/visual-art/ink_watercolor"><li id="visual_link_ink_watercolor">Ink and Watercolor</li></a>
-		<a href="/en/visual-art/calligraphy"><li id="visual_link_calligraphy">Calligraphy</li></a>
-		<a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
-		<a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
-		<a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
+	<a href="/en/visual-art/ink_watercolor"><li id="visual_link_ink_watercolor">Ink and Watercolor</li></a>
+	<a href="/en/visual-art/calligraphy"><li id="visual_link_calligraphy">Calligraphy</li></a>
+	<a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
+	<a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
+	<a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
 </ul>
 
-Currently being sold at [**Osaka Thru the Eyes of the World**](https://www.instagram.com/p/DGt0TU_TEx0/) art sale at [iiie craft beer near Shinsaibashi station](https://maps.app.goo.gl/AU5d5ZuoaVBVJJ1SA).
+Previously sold at [**Osaka Thru the Eyes of the World vol.3**](https://www.instagram.com/p/DGt0TU_TEx0/).
 
 <div class="art-gallery-container">
 	<div class="art-gallery">
@@ -46,7 +46,7 @@ Currently being sold at [**Osaka Thru the Eyes of the World**](https://www.insta
 			<img class="art_img_landscape" src="/assets/merch/postcards/2025-03_postcards_otteotw.jpg" title="" alt="">
 			<span class="art_desc">
 				<span class="art_title">Osaka Thru the Eyes of the World vol.3 postcards set</span>
-				<span class="art_medium">1 for 400 JPY | 3 for 1000 JPY | 9 for 2700 JPY (full set) (prices for event only)</span>
+				<span class="art_medium">1 for 280 JPY | 3 for 700 JPY | 9 for 1800 JPY (full set) (shipping not included)</span>
 				<span class="art_date">2025-03-30</span>
 			</span>
 		</div>
@@ -54,31 +54,31 @@ Currently being sold at [**Osaka Thru the Eyes of the World**](https://www.insta
 			<img class="art_img_landscape" src="/assets/merch/stickers/2025-03_rainbow-holo-stickers_otteotw.jpg" title="" alt="">
 			<span class="art_desc">
 				<span class="art_title">Osaka Thru the Eyes of the World vol.3 sticker set</span>
-				<span class="art_medium">1 for 600 JPY | 3 for 1600 JPY | 6 for 3000 JPY (full set) (prices for event only)</span>
+				<span class="art_medium">1 for 420 JPY | 3 for 1120 JPY | 6 for 2100 JPY (full set) (shipping not included)</span>
 				<span class="art_date">2025-03-30</span>
 			</span>
 		</div>
 		<div class="art-mult-container">
 		<div class="art-div-multiple">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_01.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_01.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
 		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_02.jpg" title="Wise Fox" alt="Wise Fox (ink)">
 		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_03.jpg" title="Nine Tailed Fox" alt="Nine Tailed Fox (ink)">
 		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_04.jpg" title="Fox asleep in the forest" alt="Fox asleep in the forest (ink)">
 		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_05.jpg" title="dapper snake" alt="dapper snake (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_06.jpg" title="night doggo" alt="night doggo (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_07.jpg" title="Art Witch" alt="Art Witch (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_08.jpg" title="Art Fox with a giant brush" alt="Art Fox with a giant brush (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_09.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_10.jpg" title="Wise Fox" alt="Wise Fox (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_11.jpg" title="Nine Tailed Fox" alt="Nine Tailed Fox (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_12.jpg" title="Fox asleep in the forest" alt="Fox asleep in the forest (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_13.jpg" title="dapper snake" alt="dapper snake (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_14.jpg" title="Night Doggo" alt="Night Doggo (ink)">
-		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_15.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_06.jpg" title="night doggo" alt="night doggo (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_07.jpg" title="Art Witch" alt="Art Witch (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_08.jpg" title="Art Fox with a giant brush" alt="Art Fox with a giant brush (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_09.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_10.jpg" title="Wise Fox" alt="Wise Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_11.jpg" title="Nine Tailed Fox" alt="Nine Tailed Fox (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_12.jpg" title="Fox asleep in the forest" alt="Fox asleep in the forest (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_13.jpg" title="dapper snake" alt="dapper snake (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_14.jpg" title="Night Doggo" alt="Night Doggo (ink)">
+		<img class="art_img_mult_portrait_mini" src="/assets/merch/postcards/prints_only/2025-03-30 postcard_15.jpg" title="Jumping Fox" alt="Jumping Fox (ink)">
 		</div>
 		<span class="art_desc">
-			<span class="art_title">Osaka Thru the Eyes of the World hand painted ink postcards</span>
-			<span class="art_medium">2900 JPY (prices for event only)</span>
+			<span class="art_title">Osaka Thru the Eyes of the World vol.3 hand painted ink postcards</span>
+			<span class="art_medium">2000 JPY for original, 280 JPY for print (shipping not included)</span>
 			<span class="art_date">2025-03-30</span>
 		</span>
 		</div>
@@ -96,8 +96,8 @@ Currently being sold at [**Osaka Thru the Eyes of the World**](https://www.insta
 		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/ink_watercolor/2025/postcards/2025-03-30 postcard_25.jpg" title="Sun Fox and Moon Wolf (watercolor)" alt="Sun Fox and Moon Wolf (watercolor)">
 		</div>
 		<span class="art_desc">
-			<span class="art_title">Osaka Thru the Eyes of the World hand painted watercolor postcards</span>
-			<span class="art_medium">4300 JPY (prices for event only)</span>
+			<span class="art_title">Osaka Thru the Eyes of the World vol.3 hand painted watercolor postcards</span>
+			<span class="art_medium">3000 JPY for original, 280 JPY for print (shipping not included)</span>
 			<span class="art_date">2025-03-30</span>
 		</span>
 		</div>
@@ -125,8 +125,8 @@ Currently being sold at [**Osaka Thru the Eyes of the World**](https://www.insta
 		<img class="art_img_mult_portrait_mini" src="/assets/visual_art_thumbnails/calligraphy/2025/postcards/2025-03-30 postcard_45.jpg" title="猫 as a cat (hungry)" alt="猫 as a cat (hungry)">
 		</div>
 		<span class="art_desc">
-			<span class="art_title">Osaka Thru the Eyes of the World hand painted calligraphy postcards</span>
-			<span class="art_medium">2150 JPY (prices for event only)</span>
+			<span class="art_title">Osaka Thru the Eyes of the World vol.3 hand painted calligraphy postcards</span>
+			<span class="art_medium">1280 JPY for original, 280 JPY for print (shipping not included)</span>
 			<span class="art_date">2025-03-30</span>
 		</span>
 		</div>
@@ -174,14 +174,6 @@ I can bundle a letter or sign the piece. Once bundled, I add the cost of shippin
 
 The labor cost for wall art display prints is as follows:
 
-<!-- 
-| Self made | ink painting mini |  original | 2000 JPY | (13.40 USD) |
-| Self made | ink painting big |  original | 13750 JPY | (92.13 USD) |
-| Self made | watercolor small |  original | 15000 JPY | (100.50 USD) |
-| Self made | watercolor big |  original | 30000 JPY | (201.00 USD) |
-| Self made | calligraphy small |  original | 6400 JPY | (42.88 USD) |
-| Self made | calligraphy big |  original | 12800 JPY | (85.76 USD) |
- -->
 
 | Piece type | Painting Category | Sale type | Labor cost in JPY | Labor cost (USD approximated) |
 |---|---|---|---|---|
@@ -206,17 +198,20 @@ The labor cost for wall art display prints is as follows:
 | Commission | Calligraphy mini |  original | 1,600 JPY | (10.72 USD) |
 | Commission | Calligraphy small |  original | 8,000 JPY | (53.60 USD) |
 | Commission | Calligraphy big |  original | 16,000 JPY | (107.20 USD) |
-| Commission | Ink painting mini |  print | 500 JPY | (3.35 USD) |
+| Commission | Ink painting mini |  print | 700 JPY | (4.69 USD) |
 | Commission | Ink painting small |  print | 5,000 JPY | (33.50 USD) |
 | Commission | Ink painting big |  print | 6,875 JPY | (46.06 USD) |
-| Commission | Watercolor mini |  print | 500 JPY | (3.35 USD) |
+| Commission | Watercolor mini |  print | 700 JPY | (4.69 USD) |
 | Commission | Watercolor small |  print | 7,500 JPY | (50.25 USD) |
 | Commission | Watercolor big |  print | 15,000 JPY | (100.50 USD) |
-| Commission | Calligraphy mini |  print | 500 JPY | (3.35 USD) |
+| Commission | Calligraphy mini |  print | 700 JPY | (4.69 USD) |
 | Commission | Calligraphy small |  print | 3,200 JPY | (21.44 USD) |
 | Commission | Calligraphy big |  print | 6,400 JPY | (42.88 USD) |
 
+**Commission refers to the work being commissioned directly to me. Printing copies of commissions made by other people is done at the "self made" price"**
+
 **For pieces that are not commissions, I do not sell originals except for postcard (mini) sized.**
+
 ***Payment is requested via PayPal after the order is consolidated***
 
 <a id="pricing-scheme-merch"></a>
@@ -234,6 +229,24 @@ The labor cost for post card size, small items, small scale prints is as follows
 |---|---|---|---|---|
 | Self made | Postcard |  print | 280 JPY | (1.88 USD) |
 | Self made | Rainbow holo sticker 50mm2 |  print sticker 50mm2 | 420 JPY | (2.81 USD) |
+| Commission (add to lineup) | Postcard |  print | 700 JPY | (4.69 USD) |
+| Commission (add to lineup) | Rainbow holo sticker 50mm2 |  print sticker 50mm2 | 1200 JPY | (8.04 USD) |
+
+**Commission refers to the work being commissioned directly to me. Printing copies of commissions made by other people is done at the "self made" price"**
+
+**Sticker commissions need to be paid as regular art commissions first**
+
+**Commissions at this price scheme are agreed to be available for sale for other people.** If a private commission where the merch will be unique and not for sale to others after purchase, the order cost is added:
+
+```
+Total Price = Order cost + Labor cost + Shipping cost
+```
+
+| Piece type | Painting Category | Sale type | Labor cost in JPY | Labor cost (USD approximated) |
+|---|---|---|---|---|
+| Commission (private) | Postcard |  print / digital | 700 JPY | (4.69 USD) |
+| Commission (private) | Rainbow holo sticker 50mm2 |  print sticker 50mm2 | 1200 JPY | (8.04 USD) |
+
 
 ***Payment is requested via PayPal after the order is consolidated***
 
@@ -244,6 +257,10 @@ The labor cost for post card size, small items, small scale prints is as follows
 
 - I can print high quality gliceé, glass printing, canvas printing, poster printing.
 - I can do a varnish finish on canvas prints
+
+*cons*:
+
+- I am unable to print mugs, t-shirts, or other products; this site is primarily for flat prints.
 
 *notes*:
 
@@ -259,7 +276,7 @@ The labor cost for post card size, small items, small scale prints is as follows
 - Order: "Cat Playing with the Universe (Ink and Digital Filters)" Canvas print, 250 x 250 mm (9.8 x 9.8 in)
 	- Order company: [Graphic.jp](https://www.graphic.jp/lineup/canvas)
 	- Order cost: 2,630 JPY (23.93 USD)
-	- Shipping cost of canvas within Japan: *free above 18.20 USD / 2,000 JPY*
+	- Shipping cost of canvas within Japan to me: *free above 2,000 JPY*
 	- Shipping cost to the USA (if shipping by plane, assuming less than 1kg): 3,350 JPY (30.48 USD)
 	- Thank you letter: Free ❤️
 	- Labor cost: 4,000 JPY (26.80 USD)
@@ -302,7 +319,6 @@ You can check the official [Japan Post National shipping prices here](https://ww
 	- Order company: [Printpac.co.jp](https://www.printpac.co.jp/contents/lineup/ph_poster/price.php?category=242&size=2&paper=436&noki=5)
 	- Print cost: 940 JPY (6.40 USD)
 	- 250mm x 250 mm [frame](https://item.rakuten.co.jp/phototaiyo/106042/): 2,090 JPY (14.22 USD)
-	- Shipping cost of canvas within Japan: *free above 18.20 USD / 2,000 JPY*
 	- Shipping cost to the USA (if shipping by plane, assuming less than 1kg): 3,350 JPY (30.48 USD)
 	- Thank you letter: Free ❤️
 	- Labor cost: 4,000 JPY (26.80 USD)
@@ -343,13 +359,13 @@ Commission Price = Order cost (digital delivery is free) + Shipping Cost (digita
 | Commission | Calligraphy mini |  original | 1,600 JPY | (10.72 USD) |
 | Commission | Calligraphy small |  original | 8,000 JPY | (53.60 USD) |
 | Commission | Calligraphy big |  original | 16,000 JPY | (107.20 USD) |
-| Commission | Ink painting mini |  print / digital | 500 JPY | (3.35 USD) |
+| Commission | Ink painting mini |  print / digital | 700 JPY | (4.69 USD) |
 | Commission | Ink painting small |  print / digital | 5,000 JPY | (33.50 USD) |
 | Commission | Ink painting big |  print / digital | 6,875 JPY | (46.06 USD) |
-| Commission | Watercolor mini |  print / digital | 1500 JPY | (3.35 USD) |
+| Commission | Watercolor mini |  print / digital | 700 JPY | (4.69 USD) |
 | Commission | Watercolor small |  print / digital | 7,500 JPY | (50.25 USD) |
 | Commission | Watercolor big |  print / digital | 15,000 JPY | (100.50 USD) |
-| Commission | Calligraphy mini |  print / digital | 500 JPY | (3.35 USD) |
+| Commission | Calligraphy mini |  print / digital | 700 JPY | (4.69 USD) |
 | Commission | Calligraphy small |  print / digital | 3,200 JPY | (21.44 USD) |
 | Commission | Calligraphy big |  print / digital | 6,400 JPY | (42.88 USD) |
 
@@ -441,10 +457,10 @@ Commissions under these terms and conditions and license are to be requested for
 
 Send [**inquiries for commissions**]((mailto:icekler.art.requests@gmail.com) to:[icekler.art.requests@gmail.com](mailto:icekler.art.requests@gmail.com)
 
-You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11) which is where I'm the most active.
+You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [小红书(Xiǎohóngshū)](https://xiaohongshu/user/profile/67860b72000000000801ef11) which is where I'm the most active.
 
 - [@icekler.com on Bluesky](https://bsky.app/profile/icekler.com)
-- [@clairepuppylove on Xiaohongshu](https://www.xiaohongshu.com/user/profile/67860b72000000000801ef11)
+- [@clairepuppylove on 小红书(Xiǎohóngshū)](https://xiaohongshu/user/profile/67860b72000000000801ef11)
 - [@claire.puppylove on TikTok]
 - [@icekler on Ko-Fi](https://ko-fi.com/icekler)
 - [@icekler on Instagram: (up but currently not actively posting)](https://www.instagram.com/icekler/)
@@ -452,11 +468,11 @@ You can also contact me on [Bluesky](https://bsky.app/profile/icekler.com), or [
 Browse on inspiration for your commissions:
 
 <ul class="visual_links">
-		<a href="/en/visual-art/ink_watercolor"><li id="visual_link_ink_watercolor">Ink and Watercolor</li></a>
-		<a href="/en/visual-art/calligraphy"><li id="visual_link_calligraphy">Calligraphy</li></a>
-		<a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
-		<a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
-		<a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
+	<a href="/en/visual-art/ink_watercolor"><li id="visual_link_ink_watercolor">Ink and Watercolor</li></a>
+	<a href="/en/visual-art/calligraphy"><li id="visual_link_calligraphy">Calligraphy</li></a>
+	<a href="/en/visual-art/digital/"><li id="visual_link_digital">Digital Art</li></a>
+	<a href="/en/visual-art/oil_acrylics/"><li id="visual_link_oil_acrylics">Oil and Acrylics</li></a>
+	<a href="/en/visual-art/design/"><li id="visual_link_design">Design</li></a>
 </ul>
 
 For hand crafting, prices can be negotiated further, since it depends on the crafting item.
