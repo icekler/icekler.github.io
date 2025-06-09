@@ -413,7 +413,7 @@ I will most likely reject the following subjects:
 - Offensive, Harmful or Discriminatory subjects
 - Mainstream religious imagery
 - Egregious or detailed fetishized gore
-- Fetish content relating to age, scat, gore, or body size
+- Fetish content relating to scat, gore, or extreme body sizes
 - Material that promotes ideologies that I do not agree with
 - Material that requires a style that is different to mine or resembling another artist
 - Material that might result in copyright issues

@@ -421,7 +421,7 @@ Lo más probable es que rechace los siguientes temas:
 - Temas ofensivos, dañinos o discriminatorios
 - Imágenes religiosas convencionales
 - Gore fetichizado atroz o detallado
-- Contenido fetichista relacionado con la edad, la excreción, el gore o el tamaño corporal
+- Contenido fetichista relacionado con la excreción, el gore o tamaños corporales extremo
 - Material que promueva ideologías con las que no estoy de acuerdo
 - Material que requiera un estilo diferente al mío o que se parezca al de otro artista
 - Material que pueda generar problemas de derechos de autor
